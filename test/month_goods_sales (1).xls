@@ -1,0 +1,357 @@
+商品名称	商品编码	零件号	销售量	计量单位	销售额	商品品牌	一级分类	二级分类
+壳牌/Shell 红壳 HX3 SL 15W-40 4L		HX3 SL 15W-40 4L	1161	瓶	107624.70	壳牌/Shell	汽机油	油品	
+壳牌/Shell 黄壳汽机油 AO版 HX5 SL 10W-40 4L		HX5 SL 10W-40 4L	816	瓶	103240.00	壳牌/Shell	汽机油	油品	
+美孚/Mobil 金装美孚1号全合成机油 SN 0W-40 1L		SN 0W-40 1L	893	瓶	71440.00	美孚/Mobil	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"全合成";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:5:"0W-40";}i:2;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SN";}i:3;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"1L";}}
+壳牌/Shell 黄壳黄喜力 HX5 SN 10W-40 4L		HX5 SN 10W-40 4L	427	瓶	57485.00	壳牌/Shell	汽机油	油品	
+嘉实多/Castrol 金嘉护GTX汽机油 SN 10W-40 4L		GTX SN 10W-40 4L	228	瓶	31464.00	嘉实多/Castrol	汽机油	油品	
+美孚/Mobil 速霸1000汽机油 SN 10W-40 4L		SN 10W-40 4L	226	瓶	29108.80	美孚/Mobil	汽机油	油品	
+美孚/Mobil 速霸2000 SN 5W-40 4L		SN 5W-40 4L	118	瓶	26986.60	美孚/Mobil	汽机油	油品	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SN";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:5:"5W-40";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+嘉实多/Castrol 磁护Magnatec汽机油 SN 5W-40 4L		Magnatec SN 5W-40 4L	98	瓶	25744.60	嘉实多/Castrol	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"半合成";}i:1;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SN";}i:2;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:5:"5W-40";}i:3;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+壳牌/Shell 蓝壳汽机油 HX7 SN 5W-40 4L		HX7 SN 5W-40 4L	107	瓶	24246.20	壳牌/Shell	汽机油	油品	
+壳牌/Shell 蓝壳汽机油AO版 HX7 SN 5W-40 4L		HX7 SN 5W-40 4L AO	91	瓶	20156.50	壳牌/Shell	汽机油	油品	
+美孚/Mobil 力霸 SJ 15W-40 4L		SJ 15W-40 4L	190	瓶	18601.00	美孚/Mobil	汽机油	油品	
+NGK 烈焰铂金火花塞 116CX		116CX	314	盒	18507.20	NGK	火花塞	点火系统	a:6:{i:0;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"16.0mm";}i:1;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"6";}i:2;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"19.0mm";}i:3;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:6:"铂金";}i:4;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}i:5;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"是";}}
+飞利浦/Philips 普通车灯 H7 12V 55W		12972CP	1513	盒	18277.04	飞利浦/Philips	汽车灯泡	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:2:"H7";}i:1;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}i:2;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:3:"55W";}}
+嘉实多/Castrol 银嘉护 SL 10W-40 4L		SL 10W-40 4L	139	瓶	16471.50	嘉实多/Castrol	汽机油	油品	
+美孚/Mobil 速霸1000 SN 5W-30 4L		SN 5W-30 4L	120	瓶	15456.00	美孚/Mobil	汽机油	油品	
+巨化 雪种 冷媒 220g		JH-220g	1427	瓶	15411.60	巨化	冷媒	空调	
+美孚 黑霸王 CF-4 15W-40 4L		CF-4 15W-40 4L	158	瓶	14978.40	美孚/Mobil	柴机油	油品	
+嘉实多/Castrol 嘉力汽机油 SJ 10W-40 4L		SJ 10W-40 4L	148	瓶	14489.20	嘉实多/Castrol	汽机油	油品	
+壳牌/Shell 白壳白喜力 HX2 SG 15W-40 3.5L		HX2 SG 15W-40 3.5L	172	瓶	12057.20	壳牌/Shell	汽机油	油品	
+NGK 镍合金小头火花塞 BCP5ES-11 7810		BCP5ES-11	1069	盒	10891.60	NGK	火花塞	点火系统	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:9:"镍合金";}i:1;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}i:2;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"19.0mm";}i:3;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"5";}i:4;a:2:{s:9:"attr_name";s:12:"火花间隙";s:10:"attr_value";s:5:"1.1mm";}i:5;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"否";}i:6;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"16.0mm";}}
+壳牌/Shell 灰壳 SN 5W-40 4L		SN 5W-40 4L	31	瓶	10059.50	壳牌/Shell	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"全合成";}i:1;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SN";}i:2;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:5:"5W-40";}i:3;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+米其林/Michelin 轮胎
+ Preceda PP2 MO 255/45R17 98W PC		170481	6	个	9536.88	米其林/Michelin	轮胎	车轮	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"花纹";s:10:"attr_value";s:11:"Preceda PP2";}i:1;a:2:{s:9:"attr_name";s:12:"轮胎规格";s:10:"attr_value";s:9:"255/45R17";}i:2;a:2:{s:9:"attr_name";s:12:"载重指数";s:10:"attr_value";s:2:"98";}i:3;a:2:{s:9:"attr_name";s:12:"速度级别";s:10:"attr_value";s:1:"W";}}
+壳牌统一 微客王矿物油 SF 15W-40 3.5L		SF 15W-40 3.5L	178	瓶	9505.20	壳牌统一	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SF";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:6:"15W-40";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:4:"3.5L";}i:3;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"矿物油";}}
+NGK 烈焰铂金火花塞 115CX 4支装		115CX	134	盒	9219.20	NGK	火花塞	点火系统	
+飞利浦/Philips 汽车灯泡 H4 12V 55W		12342PR	633	盒	8735.40	飞利浦/Philips	汽车灯泡	照明	
+壳牌/Shell 黄壳黄喜力润滑油 机油 HX6 SN 10W-40 4L		HX6 SN 10W-40 4L	52	瓶	8112.00	壳牌/Shell	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:6:"10W-40";}i:1;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"半合成";}i:2;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SN";}i:3;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+美孚/Mobil 力霸特级 SL 10W-40 4L		SL 10W-40 4L	58	瓶	7168.80	美孚/Mobil	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SL";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:6:"10W-40";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}i:3;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"全合成";}}
+美孚 黑霸王1300 CH-4 15W-40 4L		1300 CH-4 15W-40 4L	66	瓶	6930.00	美孚/Mobil	柴机油	油品	
+NGK 镍合金普通火花塞 BP6ES 7811		BP6ES	710	盒	5840.00	NGK	火花塞	点火系统	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:9:"镍合金";}i:1;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}i:2;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"6";}i:3;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"19.0mm";}i:4;a:2:{s:9:"attr_name";s:12:"火花间隙";s:10:"attr_value";s:5:"0.8mm";}i:5;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"否";}i:6;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"20.8mm";}}
+美孚/Mobil 速霸2000 SN 5W-40 1L		SN 5W-40 1L	94	瓶	5621.20	美孚/Mobil	汽机油	油品	
+美孚/Mobil 车用齿轮油Mobilube 美孚路宝GX GL-4 80W-90 4L		GL-4 80W-90 4L	62	瓶	5580.00	美孚/Mobil	齿轮油	油品	
+嘉实多/Castrol 极护EDGE汽机油 SN 5W-30 4L		EDGE SN 5W-30 4L	17	瓶	5516.50	嘉实多/Castrol	汽机油	油品	
+嘉实多/Castrol 自动传动液 嘉车保系列 迪士龙三号 Dex III 4L		Dex III 4L	42	瓶	5321.40	嘉实多/Castrol	自动变速箱油	油品	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}i:1;a:2:{s:9:"attr_name";s:9:"档位数";s:10:"attr_value";s:4:"3速";}}
+巨化 雪种 冷媒 250g		JH-250g	334	瓶	4542.40	巨化	冷媒	空调	
+车仆 通用雨刮水 玻璃水YGS 0度 1.8L		YGS	777	瓶	4273.50	车仆/CHIEF	玻璃水	养护用品	
+壳牌/Shell 蓝壳汽机油 HX7 SN 5W-40 1L		HX7 SN 5W-40 1L	55	瓶	3855.50	壳牌/Shell	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"半合成";}i:1;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SN";}i:2;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:5:"5W-40";}i:3;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"1L";}}
+飞利浦/Philips 普通车灯 H4 12V 100/90W		12754C1	292	盒	3693.80	飞利浦/Philips	汽车灯泡	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:2:"H4";}i:1;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}i:2;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:7:"100/90W";}}
+嘉实多/Castrol 自动传动液 嘉车保系列 迪士龙三号 Dex III 1L		Dex III 1L	75	瓶	2940.00	嘉实多/Castrol	自动变速箱油	油品	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"1L";}i:1;a:2:{s:9:"attr_name";s:9:"档位数";s:10:"attr_value";s:4:"3速";}}
+米其林/Michelin 轮胎 Energy XM 2 205/55R16 91V PC		175909	4	个	2818.90	米其林/Michelin	轮胎	车轮	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"花纹";s:10:"attr_value";s:11:"Energy XM 2";}i:1;a:2:{s:9:"attr_name";s:12:"轮胎规格";s:10:"attr_value";s:9:"205/55R16";}i:2;a:2:{s:9:"attr_name";s:12:"载重指数";s:10:"attr_value";s:2:"91";}i:3;a:2:{s:9:"attr_name";s:12:"速度级别";s:10:"attr_value";s:1:"V";}}
+嘉实多/Castrol 金嘉护GTX汽机油 SN 5W-30 4L		GTX SN 5W-30 4L	18	瓶	2727.00	嘉实多/Castrol	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"全合成";}i:1;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SN";}i:2;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:5:"5W-30";}i:3;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+壳牌统一 合能一系合成汽机油 SJ 15W-40 4L		SJ 15W-40 4L	32	瓶	2649.60	壳牌统一	汽机油	油品	
+美孚/Mobil 自动排挡液 ATF 220 1L		ATF220	73	瓶	2562.30	美孚/Mobil	自动变速箱油	油品	
+风帆/Sail 全免蓄电池 46B24L-MF		46B24L-MF	9	只	2472.30	风帆/Sail	蓄电池	电器	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:15:"46B24L-MF　　";}i:1;a:2:{s:9:"attr_name";s:12:"储备容量";s:10:"attr_value";s:4:"45AH";}i:2;a:2:{s:9:"attr_name";s:18:"低温启动电流";s:10:"attr_value";s:6:"325CCA";}i:3;a:2:{s:9:"attr_name";s:8:"电压  ";s:10:"attr_value";s:3:"12V";}i:4;a:2:{s:9:"attr_name";s:6:"净重";s:10:"attr_value";s:6:"12.3kg";}i:5;a:2:{s:9:"attr_name";s:15:"包装箱尺寸";s:10:"attr_value";s:20:"24.8cm*14.0cm*24.0cm";}i:6;a:2:{s:9:"attr_name";s:7:"毛重 ";s:10:"attr_value";s:6:"12.8kg";}}
+壳牌统一 统力牌齿轮油 GL-5 85W-90 4L		GL-5 85W-90 4L	32	瓶	2380.80	统力	齿轮油	油品	
+美孚 黑霸王1300 CH-4 15W-40 18L		1300 CH-4 15W-40 18L	6	桶	2311.80	美孚/Mobil	柴机油	油品	
+博世 小头经济型火花塞 K7RTC 10支装		K7RTC	34	盒	2142.00	博世/Bosch	火花塞	点火系统	
+嘉实多/Castrol 银嘉护 SL 15W-50 4L		SL 15W-50 4L	18	瓶	2133.00	嘉实多/Castrol	汽机油	油品	
+米其林/Michelin 轮胎
+ Primacy HP MO 255/45R18 99Y PC		696509	1	个	2103.20	米其林/Michelin	轮胎	车轮	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"花纹";s:10:"attr_value";s:10:"Primacy HP";}i:1;a:2:{s:9:"attr_name";s:12:"轮胎规格";s:10:"attr_value";s:9:"255/45R18";}i:2;a:2:{s:9:"attr_name";s:12:"载重指数";s:10:"attr_value";s:2:"99";}i:3;a:2:{s:9:"attr_name";s:12:"速度级别";s:10:"attr_value";s:1:"Y";}}
+米其林/Michelin 轮胎
+ Primacy 3 ST 215/55R17 94V PC		552678	2	个	2017.00	米其林/Michelin	轮胎	车轮	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"花纹";s:10:"attr_value";s:12:"Primacy 3 ST";}i:1;a:2:{s:9:"attr_name";s:12:"轮胎规格";s:10:"attr_value";s:9:"215/55R17";}i:2;a:2:{s:9:"attr_name";s:12:"载重指数";s:10:"attr_value";s:2:"94";}i:3;a:2:{s:9:"attr_name";s:12:"速度级别";s:10:"attr_value";s:1:"V";}}
+飞利浦/Philips 普通车灯 H1 12V/55W		12258C1	220	盒	1922.80	飞利浦/Philips	汽车灯泡	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:3:"55W";}i:1;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}i:2;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:2:"H1";}}
+壳牌统一 智尊柴机油 CD 20W-50 4L		CD 20W-50 4L	32	瓶	1920.00	壳牌统一	柴机油	油品	
+壳牌统一 合能五系合成汽机油 SL 10W-40 4L		SL 10W-40 4L	18	瓶	1900.80	壳牌统一	汽机油	油品	
+NGK 烈焰铂金火花塞 126CX 4支装		126CX	26	盒	1788.80	NGK	火花塞	点火系统	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:6:"铂金";}i:1;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"6";}i:2;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"是";}}
+美孚 黑霸王 CF-4 15W-40 18L		CF-4 15W-40 18L	5	桶	1725.00	美孚/Mobil	柴机油	油品	
+飞利浦/Philips 普通车灯 H1 12V 100W		12454RA	162	盒	1723.68	飞利浦/Philips	汽车灯泡	照明	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:6:"p14.5s";}}
+壳牌/Shell 灰壳超凡喜力全合成机油 SN 5W-40 1L		SN 5W-40 1L	18	瓶	1521.00	壳牌/Shell	汽机油	油品	
+NGK 双铂金火花塞 PLFR5A-11 6240		PLFR5A-11	20	盒	1478.00	NGK	火花塞	点火系统	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:9:"双铂金";}i:1;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}i:2;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"26.5mm";}i:3;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"5";}i:4;a:2:{s:9:"attr_name";s:12:"火花间隙";s:10:"attr_value";s:5:"1.1mm";}i:5;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"是";}i:6;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"16.0mm";}}
+风帆/Sail 全免蓄电池 55D23L-MF		55D23L-MF	4	只	1426.40	风帆/Sail	蓄电池	电器	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:12:"55D23L-MF　";}i:1;a:2:{s:9:"attr_name";s:12:"储备容量";s:10:"attr_value";s:4:"60AH";}i:2;a:2:{s:9:"attr_name";s:18:"低温启动电流";s:10:"attr_value";s:6:"356CCA";}i:3;a:2:{s:9:"attr_name";s:8:"电压  ";s:10:"attr_value";s:3:"12V";}i:4;a:2:{s:9:"attr_name";s:6:"净重";s:10:"attr_value";s:6:"15.3kg";}i:5;a:2:{s:9:"attr_name";s:15:"包装箱尺寸";s:10:"attr_value";s:20:"24.0cm*18.2cm*24.7cm";}i:6;a:2:{s:9:"attr_name";s:7:"毛重 ";s:10:"attr_value";s:6:"15.8kg";}}
+博世 铜芯电极经济型火花塞 小头 K6TCOR 4支装		K6TCOR	47	盒	1278.40	博世/Bosch	火花塞	点火系统	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:6:"铜芯";}i:1;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"是";}}
+车仆/CHIEF 化油器清洗剂 380ml		Chief QXJ 380ml	250	瓶	1250.00	车仆/CHIEF	清洗剂	养护用品	
+车仆万能泡沫清洗剂		WNPMQXJ	180	瓶	1247.40	车仆/CHIEF	清洗剂	养护用品	
+回天 刹车油(金色) 500g/瓶 20瓶/箱		HT-SCY	60	瓶	1212.00	回天	密封剂	养护用品	
+3M 水晶镀膜促销套装9999 3C 2套/箱		9999 3C	2	套	1200.00	3M	保护膜	养护用品	
+车仆/CHIEF 化油器清洗剂 550ml		Chief QXJ 550ml	168	瓶	1176.00	车仆/CHIEF	清洗剂	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:5:"550ml";}}
+美孚 特级黑霸王1400 CH-4 15W-40 18L		1400 CH-4 15W-40 18L	3	桶	1155.90	美孚/Mobil	柴机油	油品	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:4:"CH-4";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:6:"15W-40";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:3:"18L";}}
+嘉实多/Castrol 极护EDGE汽机油 SN 0W-40 4L		EDGE SN 0W-40 4L	3	瓶	1137.30	嘉实多/Castrol	汽机油	油品	
+风帆/Sail 全免蓄电池 55D26LX-MF		55D26LX-MF	3	只	1113.00	风帆/Sail	蓄电池	电器	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:10:"55D26LX-MF";}i:1;a:2:{s:9:"attr_name";s:12:"储备容量";s:10:"attr_value";s:4:"60AH";}i:2;a:2:{s:9:"attr_name";s:18:"低温启动电流";s:10:"attr_value";s:6:"348CCA";}i:3;a:2:{s:9:"attr_name";s:8:"电压  ";s:10:"attr_value";s:3:"12V";}i:4;a:2:{s:9:"attr_name";s:6:"净重";s:10:"attr_value";s:6:"16.1kg";}i:5;a:2:{s:9:"attr_name";s:15:"包装箱尺寸";s:10:"attr_value";s:20:"27.0cm*18.6cm*24.2cm";}i:6;a:2:{s:9:"attr_name";s:7:"毛重 ";s:10:"attr_value";s:6:"16.6kg";}}
+嘉实多/Castrol 极护宝马专享汽机油 SN 0W-40 1L		BMW SN 0W-40 1L	12	瓶	1068.00	嘉实多/Castrol	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"全合成";}i:1;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SN";}i:2;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:5:"0W-40";}i:3;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"1L";}}
+壳牌统一 尊能矿物油 SG 15W-40 3.5L		SG 15W-40 3.5L	16	瓶	1056.00	壳牌统一	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SG";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:6:"15W-40";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:4:"3.5L";}i:3;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"矿物油";}}
+NGK 铱金IX火花塞 ZFR6FIX-11 3668		ZFR6FIX-11	20	盒	1054.00	NGK	火花塞	点火系统	
+NGK  烈焰铂金火花塞 125CX		125CX	15	盒	1032.00	NGK	火花塞	点火系统	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:6:"铂金";}i:1;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"5";}i:2;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"是";}}
+美孚 超级黑霸王 CI-4 15W-40 18L		CI-4 15W-40 18L	2	桶	885.60	美孚/Mobil	柴机油	油品	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:4:"CI-4";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:6:"15W-40";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:3:"18L";}}
+NGK 铂金火花塞 BKR6EGP 7092 4支装		BKR6EGP	11	盒	880.00	NGK	火花塞	点火系统	
+博世火花塞		F8DC0R	94	支	846.00	博世/Bosch	火花塞	点火系统	
+风帆/Sail 全免蓄电池 95D31R-MF		95D31R-MF	2	只	827.80	风帆/Sail	蓄电池	电器	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:12:"95D31R-MF　";}i:1;a:2:{s:9:"attr_name";s:12:"储备容量";s:10:"attr_value";s:4:"80AH";}i:2;a:2:{s:9:"attr_name";s:18:"低温启动电流";s:10:"attr_value";s:6:"622CCA";}i:3;a:2:{s:9:"attr_name";s:8:"电压  ";s:10:"attr_value";s:3:"12V";}i:4;a:2:{s:9:"attr_name";s:6:"净重";s:10:"attr_value";s:6:"19.9kg";}i:5;a:2:{s:9:"attr_name";s:15:"包装箱尺寸";s:10:"attr_value";s:20:"31.0cm*18.2cm*24.1cm";}i:6;a:2:{s:9:"attr_name";s:7:"毛重 ";s:10:"attr_value";s:6:"20.4kg";}}
+海业 机油滤清器 HO-7851		HO-7851	59	只	821.76	海业	机油滤清器	滤清器	
+3M 特级水晶硬蜡 PN39526		PN39526	10	罐	816.00	3M	汽车蜡	养护用品	
+海业 机油滤清器 HO-7241		HO-7241	69	只	799.68	海业	机油滤清器	滤清器	
+壳牌/Shell 施倍力SPIRAX S2G90 GL-4 4L		S2G90 GL-4 4L	8	瓶	783.20	壳牌/Shell	齿轮油	油品	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:4:"GL-4";}i:1;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+风帆/Sail 全免蓄电池 6-QW-54		6-QW-54	2	只	742.60	风帆/Sail	蓄电池	电器	
+风帆/Sail 全免蓄电池 55D23R-MF		55D23R-MF	2	只	713.20	风帆/Sail	蓄电池	电器	
+NGK 镍合金火花塞 BKR6ES 7822		BKR6ES	68	盒	700.40	NGK	火花塞	点火系统	
+壳牌统一 合能七系合成汽机油 SM 5W-30 4L		SM 5W-30 4L	4	瓶	696.00	壳牌统一	汽机油	油品	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SM";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:5:"5W-30";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+豹王机油滤清器		TO-6925	50	只	663.00	豹王/TORA	机油滤清器	滤清器	
+回力 轮胎 165/70R13 79T R699		165/70R13-79T-R699	3	个	643.20	回力/Warrior	轮胎	车轮	a:5:{i:0;a:2:{s:9:"attr_name";s:6:"花纹";s:10:"attr_value";s:4:"R699";}i:1;a:2:{s:9:"attr_name";s:12:"轮胎规格";s:10:"attr_value";s:9:"165/70R13";}i:2;a:2:{s:9:"attr_name";s:12:"载重指数";s:10:"attr_value";s:2:"79";}i:3;a:2:{s:9:"attr_name";s:12:"速度级别";s:10:"attr_value";s:1:"T";}i:4;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:2:"13";}}
+豹王	机油滤清器		TO-6001	27	只	623.43	豹王/TORA	机油滤清器	滤清器	
+美孚 超级9000 SJ 5W-30 4L		SJ 5W-30 4L	6	瓶	623.40	美孚/Mobil	汽机油	油品	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:5:"5W-30";}i:1;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SJ";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+风帆/Sail 全免蓄电池 6-QW-48		6-QW-48	2	只	623.00	风帆/Sail	蓄电池	电器	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:7:"6-QW-48";}i:1;a:2:{s:9:"attr_name";s:12:"储备容量";s:10:"attr_value";s:4:"48AH";}i:2;a:2:{s:9:"attr_name";s:18:"低温启动电流";s:10:"attr_value";s:6:"335CCA";}i:3;a:2:{s:9:"attr_name";s:8:"电压  ";s:10:"attr_value";s:3:"12V";}i:4;a:2:{s:9:"attr_name";s:6:"净重";s:10:"attr_value";s:6:"13.7kg";}i:5;a:2:{s:9:"attr_name";s:15:"包装箱尺寸";s:10:"attr_value";s:20:"25.3cm*18.5cm*20.5cm";}i:6;a:2:{s:9:"attr_name";s:7:"毛重 ";s:10:"attr_value";s:6:"14.2kg";}}
+豹王机油滤清器 铁壳		TO-6811	48	只	613.92	豹王/TORA	机油滤清器	滤清器	
+博世机油滤清器 1*24个		0986AF0062	50	只	607.00	博世/Bosch	机油滤清器	滤清器	
+博世 经济型火花塞 DF7REC 4支装		DF7REC	22	盒	598.40	博世/Bosch	火花塞	点火系统	a:4:{i:0;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"12mm";}i:1;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"16.0mm";}i:2;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:9:"镍合金";}i:3;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"19.0mm";}}
+博世 大头经济型火花塞 F6RTC		F6RTC	73	盒	590.00	博世/Bosch	火花塞	点火系统	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"是";}i:1;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:9:"镍合金";}}
+海业 机油滤清器 HO-7843		HO-7843	49	只	571.83	海业	机油滤清器	滤清器	
+米其林/Michelin 轮胎
+ Energy XM 2 195/65R15 91V PC		649756	1	个	567.78	米其林/Michelin	轮胎	车轮	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"花纹";s:10:"attr_value";s:11:"Energy XM 2";}i:1;a:2:{s:9:"attr_name";s:12:"轮胎规格";s:10:"attr_value";s:9:"195/65R15";}i:2;a:2:{s:9:"attr_name";s:12:"载重指数";s:10:"attr_value";s:2:"91";}i:3;a:2:{s:9:"attr_name";s:12:"速度级别";s:10:"attr_value";s:1:"V";}}
+飞利浦/Philips 普通车灯 H3 12V 100W		12455RA	60	盒	559.20	飞利浦/Philips	汽车灯泡	照明	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:5:"pk22s";}}
+豹王 机油滤清器 TO-6731		TO-6731	51	只	556.92	豹王/TORA	机油滤清器	滤清器	
+风帆/Sail 全免蓄电池 46B24L-MF 细柱		46B24L-MF XZ	2	只	549.40	风帆/Sail	蓄电池	电器	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"净重";s:10:"attr_value";s:6:"12.3kg";}i:1;a:2:{s:9:"attr_name";s:8:"电压  ";s:10:"attr_value";s:3:"12V";}i:2;a:2:{s:9:"attr_name";s:18:"低温启动电流";s:10:"attr_value";s:6:"325CCA";}i:3;a:2:{s:9:"attr_name";s:12:"储备容量";s:10:"attr_value";s:4:"45AH";}i:4;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:9:"46B24L-MF";}i:5;a:2:{s:9:"attr_name";s:7:"毛重 ";s:10:"attr_value";s:6:"12.8kg";}i:6;a:2:{s:9:"attr_name";s:15:"包装箱尺寸";s:10:"attr_value";s:20:"24.8cm*14.0cm*24.0cm";}}
+电装火花塞IK16		IK16	13	盒	546.80	电装/Denso	火花塞	点火系统	
+博世空气滤清器  1*24只 		0986AF2675	30	只	542.10	博世/Bosch	空气滤清器	滤清器	
+骆驼 蓄电池 电瓶 46B24LX		46B24LX	2	只	539.00	骆驼/Camel	蓄电池	电器	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"储备容量";s:10:"attr_value";s:4:"45AH";}i:1;a:2:{s:9:"attr_name";s:18:"低温启动电流";s:10:"attr_value";s:6:"350CCA";}}
+骆驼 蓄电池 电瓶 46B24RX		46B24RX	2	只	539.00	骆驼/Camel	蓄电池	电器	a:3:{i:0;a:2:{s:9:"attr_name";s:18:"低温启动电流";s:10:"attr_value";s:6:"350CCA";}i:1;a:2:{s:9:"attr_name";s:12:"储备容量";s:10:"attr_value";s:4:"45AH";}i:2;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:7:"46B24RX";}}
+回天赛福特 化油器清洗剂 450ml/瓶 24瓶/箱		HT-QXJ	81	瓶	534.60	回天	清洗剂	养护用品	
+吉臣 空调杀菌除臭剂 多种香型G-1115 220ml		G-1115	31	瓶	517.70	吉臣/GETSUN	空气净化剂	养护用品	
+回天 角斗士灰胶 90g/支 80支/箱		HT-MFJ-90g	84	支	512.40	回天	密封剂	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:9:"净含量";s:10:"attr_value";s:3:"90g";}}
+豹王机油滤清器 TO-6773 铁壳		TO-6773	40	只	499.20	豹王/TORA	机油滤清器	滤清器	
+BG 美国原装进口 燃油系统高效清洗剂 BG210B 108ml		BG210B	20	瓶	495.00	BG	清洗剂	养护用品	
+豹王	机油滤清器		TO-6889	42	只	491.40	豹王/TORA	机油滤清器	滤清器	
+壳牌/Shell 蓝壳汽机油AO版 HX7 SN 5W-40 1L		HX7 SN 5W-40 1L AO	7	瓶	490.70	壳牌/Shell	汽机油	油品	
+佛山照明 FSL H4 汽车灯泡(蓝盒)		H4/12V-100/90W	92	盒	487.60	佛山照明/FSL	汽车灯泡	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:7:"100/90W";}i:1;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}i:2;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:4:"p43t";}}
+3M 经典封釉套装 8888 3套/箱		8888	1	套	480.00	3M	保护膜	养护用品	
+骆驼免维护蓄电池		78550	1	只	478.33	骆驼/Camel	蓄电池	电器	a:2:{i:0;a:2:{s:9:"attr_name";s:18:"低温启动电流";s:10:"attr_value";s:6:"550CCA";}i:1;a:2:{s:9:"attr_name";s:12:"储备容量";s:10:"attr_value";s:4:"66AH";}}
+NGK 普通小头火花塞 BK5E 6233		BK5E	60	盒	474.00	NGK	火花塞	点火系统	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:9:"镍合金";}i:1;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}i:2;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"19.0mm";}i:3;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"5";}i:4;a:2:{s:9:"attr_name";s:12:"火花间隙";s:10:"attr_value";s:5:"0.8mm";}i:5;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"否";}i:6;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"16.0mm";}}
+壳牌统一 尊能矿物油 SF 15W-40 4L		SF 15W-40 4L	7	瓶	466.20	壳牌统一	汽机油	油品	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:2:"SF";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:6:"15W-40";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}i:3;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:9:"矿物油";}}
+回天赛福特表板蜡 轮胎保护剂 皮革保护剂 450ml/瓶 24瓶/箱		HT-YBL	50	瓶	465.00	回天	汽车蜡	养护用品	
+瓦尔塔/VARTA 蓄电池6-QW-70LHD		6-QW-70LHD	1	只	460.98	瓦尔塔/VARTA	蓄电池	电器	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:10:"6-QW-70LHD";}i:1;a:2:{s:9:"attr_name";s:18:"低温启动电流";s:10:"attr_value";s:6:"500CCA";}i:2;a:2:{s:9:"attr_name";s:17:"20小时率容量";s:10:"attr_value";s:2:"70";}i:3;a:2:{s:9:"attr_name";s:15:"包装箱尺寸";s:10:"attr_value";s:20:"26.0cm*17.2cm*20.1cm";}}
+3M PN2044 401Q 美容砂纸 200张/箱		PN2044 401Q	1	箱	456.00	3M	油漆及辅料	养护用品	
+NGK 铂金火花塞 BKR5E 5938		BKR5E	44	盒	453.20	NGK	火花塞	点火系统	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:6:"铂金";}i:1;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}i:2;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"19.0mm";}i:3;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"5";}i:4;a:2:{s:9:"attr_name";s:12:"火花间隙";s:10:"attr_value";s:5:"0.8mm";}i:5;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"是";}i:6;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"16.0mm";}}
+飞利浦/Philips 普通车灯 双丝高低脚 P21/5W 12V 21/5W 刹车灯 尾灯 后雾灯 转向灯		12499CP	23	盒	449.65	飞利浦/Philips	刹车灯	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:5:"21/5W";}i:1;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}i:2;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:6:"P21/5W";}}
+NGK 镍合金火花塞 LFR5A-11 6376		LFR5A-11	21	盒	441.60	NGK	火花塞	点火系统	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:9:"镍合金";}i:1;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}i:2;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"26.5mm";}i:3;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"5";}i:4;a:2:{s:9:"attr_name";s:12:"火花间隙";s:10:"attr_value";s:5:"1.1mm";}i:5;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"是";}i:6;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"16.0mm";}}
+回力 轮胎 165/70R14 81T R699		165/70R14-81T-R699	2	个	436.00	回力/Warrior	轮胎	车轮	a:5:{i:0;a:2:{s:9:"attr_name";s:6:"花纹";s:10:"attr_value";s:4:"R699";}i:1;a:2:{s:9:"attr_name";s:12:"轮胎规格";s:10:"attr_value";s:9:"165/70R14";}i:2;a:2:{s:9:"attr_name";s:12:"载重指数";s:10:"attr_value";s:2:"81";}i:3;a:2:{s:9:"attr_name";s:12:"速度级别";s:10:"attr_value";s:1:"T";}i:4;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:2:"14";}}
+骆驼 蓄电池 电瓶 75D23L X MF		75D23LXMF	1	只	422.82	骆驼/Camel	蓄电池	电器	
+嘉实多/Castrol 防冻液 Antifreeze 绿色-30℃ 4L		Antifreeze  -30℃ 4L	6	瓶	414.00	嘉实多/Castrol	防冻液	冷却系	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"颜色";s:10:"attr_value";s:6:"绿色";}i:1;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4l";}i:2;a:2:{s:9:"attr_name";s:6:"冰点";s:10:"attr_value";s:6:"-30℃";}}
+回天 雪种 冷媒 R134 220g/瓶 30瓶/箱		HT-LM-220g	30	瓶	411.00	回天	冷媒	空调	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:4:"134a";}}
+风帆/Sail 全免蓄电池 L2 400MF		L2 400MF	1	只	391.80	风帆/Sail	蓄电池	电器	
+豹王	机油滤清器		TO-6983	13	只	365.04	豹王/TORA	机油滤清器	滤清器	
+壳牌统一 超粘王柴机油 CH-4 20W-50 4L		CH-4 20W-50 4L	4	瓶	360.00	壳牌统一	柴机油	油品	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:4:"CH-4";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:6:"20W-50";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+佛山照明 S-25 1016 汽车摩托车刹车灯(黄盒) 12V 21/5W BAY15d		S-25-1016	72	盒	356.40	佛山照明/FSL	刹车灯	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}i:1;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:5:"21/5W";}i:2;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:6:"BAY15d";}}
+NGK 镍合金火花塞 ZFR6V-G 96166		ZFR6V-G	20	支	344.00	NGK	火花塞	点火系统	
+回天赛福特 润滑剂 万能松动剂 270ml/瓶 24瓶/箱		HT-RHJ	29	瓶	336.40	回天	润滑剂	养护用品	
+车仆发动机外部清洗剂		FDJWBQXJ	25	只	309.50	车仆/CHIEF	清洗剂	养护用品	
+博世火花塞FR7DCX+		FR7DCX+	30	盒	300.00	博世/Bosch	火花塞	点火系统	
+福特翼虎 前保下护板带亮边 原厂 LVSHJCAB7DE311373		XHB LVSHJCAB7DE311373	1	个	294.44	OEM	下护板	整车件	
+博世 大头经济型火花塞 F6TC		F6TC	33	盒	294.00	博世/Bosch	火花塞	点火系统	a:1:{i:0;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"否";}}
+豹王	机油滤清器		TO-6986	30	只	290.10	豹王/TORA	机油滤清器	滤清器	
+壳牌统一 智尊柴机油 CF-4 20W-50 4L		CF-4 20W-50 4L	4	瓶	288.00	壳牌统一	柴机油	油品	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:4:"CF-4";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:6:"20W-50";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+3M 美容粗蜡 PN05973 1000G		PN05973	3	瓶	288.00	3M	汽车蜡	养护用品	
+博世 火花塞 K7RTJC		K7RTJC	40	盒	288.00	博世/Bosch	火花塞	点火系统	
+博世前刹车片1*4		0986AB2811	2	副	286.54	博世/Bosch	前刹车片	制动系	a:3:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:9:"报警线";s:10:"attr_value";s:3:"是";}i:2;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:6:"盘式";}}
+NGK VX 通用小头铂金火花塞 BKR6EVX-11 3540 4支装		BKR6EVX-11	2	盒	284.00	NGK	火花塞	点火系统	a:7:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:6:"铂金";}i:1;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}i:2;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"19.0mm";}i:3;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"6";}i:4;a:2:{s:9:"attr_name";s:12:"火花间隙";s:10:"attr_value";s:5:"1.1mm";}i:5;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"是";}i:6;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"16.0mm";}}
+欧司朗/Osram 普通车灯 单丝平角 P21W 12V 21W		7506	22	盒	283.36	欧司朗/Osram	汽车灯泡	照明	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:5:"ba15s";}}
+飞利浦/Philips 普通车灯 单丝平角 P21W 12V 21W 刹车灯 尾灯 后雾灯 转向灯		12498CP	18	盒	279.54	飞利浦/Philips	刹车灯	照明	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}i:1;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:3:"21W";}i:2;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:4:"P21W";}i:3;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:5:"BA15S";}}
+佛山照明/FSL 普通灯泡 H4 24V 100/90W P43T		H4 24V 100/90W P43T	50	盒	270.00	佛山照明/FSL	汽车灯泡	照明	a:4:{i:0;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:4:"p43t";}i:1;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:7:"100/90W";}i:2;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"24V";}i:3;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:2:"H4";}}
+菲罗多前刹车片		FDB1557-D	2	副	265.36	菲罗多/Ferodo	前刹车片	制动系	a:2:{i:0;a:2:{s:9:"attr_name";s:9:"报警线";s:10:"attr_value";s:3:"是";}i:1;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:6:"盘式";}}
+骆驼 蓄电池 6-QW-45MF		6-QW-45MF	1	只	257.83	骆驼/Camel	蓄电池	电器	
+NGK 火花塞 DCPR7E 4415		DCPR7E	5	盒	249.20	NGK	火花塞	点火系统	
+豹王 机油滤清器 TO-6948 铁壳		TO-6948	23	只	244.03	豹王/TORA	机油滤清器	滤清器	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:6:"铁壳";}}
+博世铂金火花塞		FR8NP	8	支	242.80	博世/Bosch	火花塞	点火系统	
+NGK 普通小头镍合金火花塞 BKR5E-11 6953/BKR5ES-11 2382 10支装		BKR5E-11/BKR5ES-11	2	盒	226.00	NGK	火花塞	点火系统	
+NGK 铂金火花塞 LZKAR6AP-11 6643		LZKAR6AP-11	4	盒	224.40	NGK	火花塞	点火系统	
+TRW前刹车片1*4		GDB7742	2	副	217.80	天合/TRW	前刹车片	制动系	
+豹王	机油滤清器		TO-6723	21	只	212.94	豹王/TORA	机油滤清器	滤清器	
+壳牌统一 合能有机防冻液 -30℃ 4kg		fdy -30℃ 4kg	4	瓶	206.44	壳牌统一	防冻液	冷却系	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"冰点";s:10:"attr_value";s:6:"-30℃";}i:1;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:3:"4kg";}}
+豹王	机油滤清器		TO-5988	12	只	205.92	豹王/TORA	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-8017	10	只	205.70	布瑞克斯/BRKS	机油滤清器	滤清器	
+3M(TM)轮胎上光剂PN39042 473ml		PN39042	2	瓶	204.00	3M	轮胎上光剂	养护用品	
+山多力 高档通用无骨雨刮片 X5 21寸		SDL-X5-21	6	支	202.20	山多力	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"21寸";}}
+博世普通火花塞 		YR7DC	20	盒	200.00	博世/Bosch	火花塞	点火系统	
+吉臣 轮胎光亮保护剂 G-6006 500ml		G-6006	5	瓶	198.50	吉臣/GETSUN	保护剂	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:5:"500ml";}}
+海业 空气滤清器 HA-4247		HA-4247	10	只	192.00	海业	空气滤清器	滤清器	
+菲罗多后刹车片		FDB956-D	2	副	191.64	菲罗多/Ferodo	后刹车片	制动系	
+山多力 普通通用有骨雨刷片 430 18寸		SDL-430-18	18	支	190.80	山多力	前风挡雨刮片	雨刷	
+佛山照明 S-25 2410 汽车摩托车刹车灯(黄盒) 24V 21/5W BA15d		S-25-2410	38	盒	188.10	佛山照明/FSL	刹车灯	照明	
+3M 至尊粗蜡 PN05954		PN05954	3	瓶	187.20	3M	汽车蜡	养护用品	
+豹王 机油滤清器 TO-6880		TO-6880	10	只	187.20	豹王/TORA	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-1002	25	只	187.00	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-7014	25	只	187.00	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-5001	25	只	187.00	布瑞克斯/BRKS	机油滤清器	滤清器	
+NGK 镍合金火花塞 ZFR5P-G 3408		ZFR5P-G	8	盒	183.20	NGK	火花塞	点火系统	
+佛山照明 普通灯泡 H1 12V 100W		H1 12V 100W	70	盒	175.00	佛山照明/FSL	汽车灯泡	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:2:"H1";}i:1;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}i:2;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:4:"100W";}}
+BRKS	机油滤清器		BJ-7002	20	只	168.40	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-4002	20	只	168.40	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-2004	20	只	168.40	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-H001	20	只	168.40	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-3001	20	只	168.40	布瑞克斯/BRKS	机油滤清器	滤清器	
+海业 机油滤清器 HO-7841		HO-7841	20	只	168.00	海业	机油滤清器	滤清器	
+AC德科/ACDelco 机油滤清器 PF3306H		PF3306H	10	只	167.00	AC德科/ACDelco	机油滤清器	滤清器	
+吉臣 汽车引擎添加剂套装G-8011 燃油宝燃油添加剂 汽油系统添加剂 清积碳 100mlx5		G-8011	2	套	165.00	吉臣/GETSUN	添加剂	养护用品	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:5:"100ml";}i:1;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:15:"汽油添加剂";}}
+吉臣 异味祛除剂(白麝香) G-1122F 250ml		G-1122F	5	瓶	165.00	吉臣/GETSUN	空气净化剂	养护用品	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"类别";s:10:"attr_value";s:24:"车用空气清新喷雾";}i:1;a:2:{s:9:"attr_name";s:6:"气味";s:10:"attr_value";s:9:"白麝香";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:5:"250ml";}}
+豹王 空气滤清器 TA-4616		TA-4616	5	只	163.90	豹王/TORA	空气滤清器	滤清器	
+吉臣 家居汽车内饰清洁剂 富含TT G-6008 500ml		G-6008	5	瓶	163.50	吉臣/GETSUN	清洗剂	养护用品	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:5:"500ml";}i:1;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:21:"汽车内饰清洗剂";}}
+佛山照明 FSL 通用型汽车灯泡 H11		H11	15	只	162.00	佛山照明/FSL	汽车灯泡	照明	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:3:"H11";}}
+法雷奥雨刷		117298	1	副	161.30	法雷奥/Valeo	前风挡雨刮片	雨刷	a:1:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+博世普通火花塞		W7DC	20	盒	160.00	博世/Bosch	火花塞	点火系统	
+佛山照明 FSL 汽车灯泡 白玻璃 H7 12V 100W 		H7 12V 100W White	32	盒	160.00	佛山照明/FSL	汽车灯泡	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:4:"100W";}i:1;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}i:2;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:5:"px26d";}}
+壳牌统一 合能 自动变速箱油 ATF 220 1L		ATF 220 1L	6	瓶	156.00	壳牌统一	自动变速箱油	油品	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"1L";}}
+3M 抛光白蜡 PN05928 946ml		PN05928	1	瓶	156.00	3M	汽车蜡	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:5:"946ml";}}
+TRW前刹车片1*4		GDB7738	1	副	154.00	天合/TRW	前刹车片	制动系	
+NGK铂金火花塞		LTR5GP	4	支	153.00	NGK	火花塞	点火系统	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:6:"铂金";}}
+吉臣 黄金软蜡 G-1208A 380g		G-1208A	4	盒	150.40	吉臣/GETSUN	汽车蜡	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:4:"380g";}}
+回天 角斗士 HT 588 红胶免垫密封胶 胶水 80支/箱		HT-JDSHJ-85g	30	支	144.00	回天	密封剂	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:9:"净含量";s:10:"attr_value";s:3:"85g";}}
+马勒机油滤清器 铁壳		OC 497	10	只	144.00	马勒/MAHLE	机油滤清器	滤清器	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:6:"铁壳";}}
+车仆聚冷	防冻液		FDY 绿色-15℃-2KG	8	桶	142.16	车仆/CHIEF	防冻液	冷却系	
+车仆聚冷	防冻液		FDY 红色-15℃-2KG	8	桶	142.16	车仆/CHIEF	防冻液	冷却系	
+壳牌统一 合能制动液 HZY3 1kg		HZY3 1kg	4	瓶	141.60	壳牌统一	刹车油	油品	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:4:"HZY3";}i:1;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:3:"1kg";}}
+回天 底盘装甲(手喷) 650ml/瓶		HT-SP-650ml	7	瓶	138.60	回天	防锈降噪	养护用品	
+壳牌统一 合能有机防冻液 -30℃ 2kg		fdy -30℃ 2kg	5	瓶	138.00	壳牌统一	防冻液	冷却系	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"冰点";s:10:"attr_value";s:6:"-30℃";}i:1;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:3:"2kg";}}
+美孚 特级黑霸王1400 CH-4 15W-40 4L		1400 CH-4 15W-40 4L	1	瓶	132.30	美孚/Mobil	柴机油	油品	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:4:"CH-4";}i:1;a:2:{s:9:"attr_name";s:6:"粘度";s:10:"attr_value";s:6:"15W-40";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4L";}}
+吉臣 抛光蜡 G-1201C 230g		G-1201C	6	盒	131.40	吉臣/GETSUN	汽车蜡	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:4:"230g";}}
+飞利浦/Philips 普通车灯 双丝高低斜角 P21/4W  12V 21/4W 刹车灯 转向灯		12594CP	3	盒	125.94	飞利浦/Philips	刹车灯	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:5:"21/4W";}i:1;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}i:2;a:2:{s:9:"attr_name";s:6:"型号";s:10:"attr_value";s:6:"P21/4W";}}
+车仆聚冷	防冻液		FDY 红色-15℃-4KG	4	桶	125.40	车仆/CHIEF	防冻液	冷却系	
+OCI 灰胶 密封胶		MFJ	12	瓶	122.40	OCI	密封剂	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:9:"净含量";s:10:"attr_value";s:5:"85克";}}
+豹王	机油滤清器		TO-6739	10	只	121.70	豹王/TORA	机油滤清器	滤清器	
+佛山照明 FSL H7 汽车灯泡(蓝盒)		H7/12V-100W	30	盒	120.00	佛山照明/FSL	汽车灯泡	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:4:"100W";}i:1;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:5:"px26d";}i:2;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}}
+回天 AB胶 小盒 20g/板 300板/盒		HT-AB-Small	66	板	118.80	回天	密封剂	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:9:"净含量";s:10:"attr_value";s:3:"20g";}}
+山多力 高档通用有骨(配套)雨刷片 618 22寸		SDL-618-22	5	支	117.50	山多力	前风挡雨刮片	雨刷	
+嘉赞/QQQ 雨刷 通用接头 17寸 A919-17		A919-17	3	支	114.00	嘉赞/QQQ	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"17寸";}i:1;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+NGK 燃气专用火花塞 BKR-GAS 7987 4支装		BKR-GAS	2	盒	112.48	NGK	火花塞	点火系统	a:5:{i:0;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:9:"镍合金";}i:1;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}i:2;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"19.0mm";}i:3;a:2:{s:9:"attr_name";s:12:"火花间隙";s:10:"attr_value";s:5:"0.8mm";}i:4;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"16.0mm";}}
+BRKS	机油滤清器		BJ-1001	15	只	112.20	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-F002	15	只	112.20	布瑞克斯/BRKS	机油滤清器	滤清器	
+NGK 双铂金火花塞 PFR5N-11 5838		PFR5N-11	2	盒	112.20	NGK	火花塞	点火系统	
+BRKS	机油滤清器		BJ-2002	15	只	112.20	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-1004	10	只	112.20	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-5002	10	只	112.20	布瑞克斯/BRKS	机油滤清器	滤清器	
+嘉赞/QQQ 无骨雨刮 18寸 A719-18		A719-18	9	支	108.00	嘉赞/QQQ	前风挡雨刮片	雨刷	
+博世舒适型后刹车片1*4		0986AB2882	1	副	105.64	博世/Bosch	后刹车片	制动系	
+山多力 普通通用有骨雨刷片 430 19寸		SDL-430-19	9	支	104.40	山多力	前风挡雨刮片	雨刷	
+豹王 空气滤清器 TA-4022		TA-4022	4	只	104.40	豹王/TORA	空气滤清器	滤清器	
+BRKS	机油滤清器		BJ-5003A	10	只	102.90	布瑞克斯/BRKS	机油滤清器	滤清器	
+博世 小头经济型火花塞 K7TC 10支装		K7TC	2	盒	102.00	博世/Bosch	火花塞	点火系统	a:1:{i:0;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"否";}}
+豹王梅花 机油滤清器 BO-6905		BO-6905	10	只	101.40	梅花	机油滤清器	滤清器	
+TRW前刹车片1*4		GDB3347	1	副	101.20	天合/TRW	前刹车片	制动系	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:6:"盘式";}}
+博世火花塞		F7DC0R	10	盒	100.00	博世/Bosch	火花塞	点火系统	
+博世安全型前刹车片1*4		0986AB3831	1	副	99.56	博世/Bosch	前刹车片	制动系	
+吉臣 异味祛除剂(柠檬) G-1122A 250ml		G-1122A	3		99.00	吉臣/GETSUN	空气净化剂	养护用品	
+博世安全型前刹车片1*4		0986AB3800	1	副	98.61	博世/Bosch	前刹车片	制动系	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:6:"盘式";}}
+BRKS	机油滤清器		BJ-1007	15	只	98.25	布瑞克斯/BRKS	机油滤清器	滤清器	
+NGK 镍合金带电阻火花塞 BKR6E-11 2756		BKR6E-11	2	盒	97.66	NGK	火花塞	点火系统	
+豹王	机油滤清器		TO-6790	12	只	97.32	豹王/TORA	机油滤清器	滤清器	
+TRW前刹车片1*4		GDB895	1	副	96.80	天合/TRW	前刹车片	制动系	
+嘉赞/QQQ 无骨雨刮 17寸 A719-17		A719-17	8	支	96.00	嘉赞/QQQ	前风挡雨刮片	雨刷	
+山多力 普通通用有骨雨刷片 430 16寸		SDL-430-16	9	支	95.40	山多力	前风挡雨刮片	雨刷	
+博世经济型火花塞KH6RKC3  10支装		KH6RKC3	1	盒	95.00	博世/Bosch	火花塞	点火系统	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"26.5mm";}i:1;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}}
+豹王	机油滤清器		TO-5010	5	只	93.60	豹王/TORA	机油滤清器	滤清器	
+豹王 机油滤清器 TO-5971		TO-5971	5	只	93.60	豹王/TORA	机油滤清器	滤清器	
+豹王	机油滤清器		TO-5966	5	只	93.60	豹王/TORA	机油滤清器	滤清器	
+壳牌统一 合能制动液 HZY3 500g		HZY3 500g	5	瓶	93.00	壳牌统一	刹车油	油品	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:4:"500g";}i:1;a:2:{s:9:"attr_name";s:6:"级别";s:10:"attr_value";s:4:"HZY3";}}
+飞利浦/Philips 普通车灯 H3 12V/55W		12336CP	11	盒	92.40	飞利浦/Philips	汽车灯泡	照明	
+博世安全型后刹车片1*4		0986AB3801	1	副	92.35	博世/Bosch	后刹车片	制动系	a:3:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"后";}i:1;a:2:{s:9:"attr_name";s:9:"报警线";s:10:"attr_value";s:3:"否";}i:2;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:6:"盘式";}}
+BRKS	机油滤清器		BJ-8001	15	只	91.20	布瑞克斯/BRKS	机油滤清器	滤清器	
+豹王 机油滤清器 TO-6905		TO-6905	8	只	91.12	豹王/TORA	机油滤清器	滤清器	
+博世前刹车片		0986AB38294HE	1	副	91.00	博世/Bosch	前刹车片	制动系	
+TRW后刹车片1*4副		GDB3348	1	副	90.20	天合/TRW	后刹车片	制动系	a:3:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"后";}i:1;a:2:{s:9:"attr_name";s:9:"报警线";s:10:"attr_value";s:3:"否";}i:2;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:6:"盘式";}}
+裕江 风扇皮带 BYD015-085 比亚迪		BYD015-085	5	条	90.00	裕江	散热器风扇皮带	皮带涨紧轮	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"长度";s:10:"attr_value";s:6:"1055mm";}}
+豹王	机油滤清器		TO-5950	5	只	89.70	豹王/TORA	机油滤清器	滤清器	
+BRKS 机油滤清器 BJ-4001		BJ-4001	10	只	87.60	布瑞克斯/BRKS	机油滤清器	滤清器	
+NGK	火花塞		BK6E	10	支	87.40	NGK	火花塞	点火系统	
+山多力 高档通用有骨(配套)雨刷片 618 21寸		SDL-618-21	4	支	86.40	山多力	前风挡雨刮片	雨刷	
+山多力 普通通用有骨雨刷片 430 17寸		SDL-430-17	8	支	84.80	山多力	前风挡雨刮片	雨刷	
+凯达前刹车片		D941	2	副	84.48	凯达	前刹车片	制动系	a:1:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+BRKS	机油滤清器		BJ-7001	10	只	84.20	布瑞克斯/BRKS	机油滤清器	滤清器	
+嘉赞/QQQ 无骨雨刮 21寸 A719-21		A719-21	7	支	84.00	嘉赞/QQQ	前风挡雨刮片	雨刷	
+嘉赞/QQQ 无骨雨刮 20寸 A719-20		A719-20	7	支	84.00	嘉赞/QQQ	前风挡雨刮片	雨刷	
+山多力 普通通用有骨雨刮片 430 21寸		SDL-430-21	7	支	81.20	山多力	前风挡雨刮片	雨刷	
+佛山照明 FSL 汽车灯泡(黄盒) H7 12V 55W PX26D		H7 12V 55W PX26D	20	盒	80.00	佛山照明/FSL	汽车灯泡	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:3:"55W";}i:1;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:5:"px26d";}i:2;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"12V";}}
+博世后刹车片0986AB38304HE		0986AB38304HE	1	副	79.00	博世/Bosch	后刹车片	制动系	
+回天 AB胶 大盒 80g/板 100板/箱		HT-AB-Big	15	板	78.00	回天	密封剂	养护用品	
+金麒麟	前刹车片		D787	1	副	77.80	金麒麟	前刹车片	制动系	a:1:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+BRKS	机油滤清器		BJ-9006	10	只	74.80	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-9001	10	只	74.80	布瑞克斯/BRKS	机油滤清器	滤清器	
+豹王	机油滤清器		TO-6900	5	只	74.10	豹王/TORA	机油滤清器	滤清器	
+豹王	机油滤清器		TO-6852	5	只	74.10	豹王/TORA	机油滤清器	滤清器	
+嘉赞/QQQ 无骨雨刮 24寸 A719-24		A719-24	6	支	72.00	嘉赞/QQQ	前风挡雨刮片	雨刷	
+BRKS	机油滤清器		BJ-9005	15	只	70.20	布瑞克斯/BRKS	机油滤清器	滤清器	
+博世安全型前刹车片1*4		0986503001	1	副	69.20	博世/Bosch	前刹车片	制动系	
+NGK 四极铂金火花塞 BKR6EQUP 3199		BKR6EQUP	1	盒	68.70	NGK	火花塞	点火系统	a:7:{i:0;a:2:{s:9:"attr_name";s:12:"是否电阻";s:10:"attr_value";s:3:"是";}i:1;a:2:{s:9:"attr_name";s:12:"螺丝长度";s:10:"attr_value";s:6:"19.0mm";}i:2;a:2:{s:9:"attr_name";s:6:"材质";s:10:"attr_value";s:6:"铂金";}i:3;a:2:{s:9:"attr_name";s:12:"螺丝直径";s:10:"attr_value";s:4:"14mm";}i:4;a:2:{s:9:"attr_name";s:6:"热价";s:10:"attr_value";s:1:"6";}i:5;a:2:{s:9:"attr_name";s:12:"火花间隙";s:10:"attr_value";s:5:"0.8mm";}i:6;a:2:{s:9:"attr_name";s:18:"六边对角尺寸";s:10:"attr_value";s:6:"16.0mm";}}
+豹王 空气滤清器 TA-4599		TA-4599	2	只	68.68	豹王/TORA	空气滤清器	滤清器	
+山多力 普通通用有骨雨刷片 430 24寸		SDL-430-24	5	支	68.50	山多力	前风挡雨刮片	雨刷	
+冠军火花塞		RER8MC	4	支	68.00	冠军/Champion	火花塞	点火系统	
+博世安全型前刹车片1*4		0986AB3853	1	副	66.78	博世/Bosch	前刹车片	制动系	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:6:"盘式";}}
+吉臣 异味祛除剂(绿茶) G-1122C 250ml		G-1122C	2	瓶	66.00	吉臣/GETSUN	空气净化剂	养护用品	
+盛联	机油滤清器		SO-416	5	只	65.45	盛联	机油滤清器	滤清器	
+山多力 普通通用无骨雨刮片 E2 22寸		SDL-E2-22	3	支	64.80	山多力	前风挡雨刮片	雨刷	
+山多力 高档通用有骨(配套)雨刮片 618 17寸		SDL-618-17	3	支	64.80	山多力	前风挡雨刮片	雨刷	
+金麒麟	后刹车片		D537	1	副	61.88	金麒麟	后刹车片	制动系	a:1:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"后";}}
+博世机油滤清器 1*24只		0986AF0116	5	只	60.70	博世/Bosch	机油滤清器	滤清器	
+豹王	空调滤清器		TAC-3066T	2	只	59.28	豹王/TORA	空调滤清器	滤清器	
+山多力 普通通用有骨雨刷片 430 20寸		SDL-430-20	5	支	58.00	山多力	前风挡雨刮片	雨刷	
+山多力 普通通用有骨雨刷片 430 22寸		SDL-430-22	5	支	58.00	山多力	前风挡雨刮片	雨刷	
+豹王 空气滤清器		TA-3903	2	只	54.60	豹王/TORA	空气滤清器	滤清器	
+山多力 普通通用有骨雨刷片 430 14寸		SDL-430-14	5	支	53.00	山多力	前风挡雨刮片	雨刷	
+山多力 无骨专用型i30系列雨刮  26寸		SDL-i30-26	1	支	52.60	山多力	前风挡雨刮片	雨刷	a:3:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:6:"无骨";}i:2;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"26寸";}}
+山多力 无骨专用型i30系列雨刮 22寸		SDL-i30-22	1	支	52.60	山多力	前风挡雨刮片	雨刷	a:3:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"类型";s:10:"attr_value";s:6:"无骨";}i:2;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"22寸";}}
+BRKS	机油滤清器		BJ-P101	5	只	51.45	布瑞克斯/BRKS	机油滤清器	滤清器	
+佛山照明 FSL H3 汽车灯泡(黄盒)		H3/12V-100W	20	盒	50.00	佛山照明/FSL	汽车灯泡	照明	
+曼牌 MANN 机油滤清器 W712/90		W 712/90	1	只	49.75	曼牌/MANN	机油滤清器	滤清器	
+车仆表板蜡		BBL	5	只	49.15	车仆/CHIEF	汽车蜡	养护用品	
+山多力 普通通用无骨雨刮片 E2 26寸		SDL-E2-26	2	支	48.60	山多力	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"26寸";}}
+嘉赞/QQQ 无骨雨刮 22寸 A719-22		A719-22	4	支	48.00	嘉赞/QQQ	前风挡雨刮片	雨刷	
+吉臣 去污水蜡 G-1203A 473ml		G-1203A	1	瓶	48.00	吉臣/GETSUN	汽车蜡	养护用品	
+嘉赞/QQQ 无骨雨刮 16寸 A719-16		A719-16	4	支	48.00	嘉赞/QQQ	前风挡雨刮片	雨刷	
+曼牌 MANN 空气滤清器 C2340/1		C 2340/1	2	只	46.20	曼牌/MANN	空气滤清器	滤清器	
+马牌多楔带发电机皮带1*1		6PK1310	1	条	45.65	马牌/Continental	发电机皮带	皮带涨紧轮	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"长度";s:10:"attr_value";s:5:"1.31m";}i:1;a:2:{s:9:"attr_name";s:6:"宽度";s:10:"attr_value";s:3:"6pk";}i:2;a:2:{s:9:"attr_name";s:6:"种类";s:10:"attr_value";s:9:"多楔带";}}
+回天 红葳封红胶 小 55g/支 100支/箱		HT-MFJ	11	支	45.10	回天	密封剂	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:9:"净含量";s:10:"attr_value";s:3:"55g";}}
+山多力 普通通用无骨雨刮片 E2 24寸		SDL-E2-24	2	支	43.20	山多力	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"24寸";}}
+豹王	机油滤清器		TO-5952	2	只	43.06	豹王/TORA	机油滤清器	滤清器	
+山多力 普通通用有骨雨刮片 430 15寸		SDL-430-15	4	支	42.40	山多力	前风挡雨刮片	雨刷	
+BRKS	机油滤清器		BJ-8006	5	只	42.10	布瑞克斯/BRKS	机油滤清器	滤清器	
+凯达前刹车片		D363	1	副	38.28	凯达	前刹车片	制动系	
+嘉赞/QQQ 雨刷 通用接头 24寸 A919-24		A919-24	1	支	38.00	嘉赞/QQQ	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"24寸";}i:1;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+AC德科/ACDelco 空气滤清器 A3322H		A3322H	1	只	37.90	AC德科/ACDelco	空气滤清器	滤清器	
+山多力 普通通用无骨雨刮片 E2 21寸		SDL-E2-21	2	支	37.60	山多力	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"21寸";}}
+豹王/TORA 防冻液 绿色 -25℃ 4L		绿色 -25℃ 4L	1	瓶	37.40	豹王/TORA	防冻液	冷却系	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"颜色";s:10:"attr_value";s:6:"绿色";}i:1;a:2:{s:9:"attr_name";s:6:"冰点";s:10:"attr_value";s:6:"-25℃";}i:2;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:2:"4l";}}
+BRKS	机油滤清器		BJ-8002	5	只	37.40	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-9021	5	只	37.40	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-9007	5	只	37.40	布瑞克斯/BRKS	机油滤清器	滤清器	
+回天 即时封灰胶 大盒 90g/支 80支/盒		HT-JSFHJ-90g	4	支	37.20	回天	密封剂	养护用品	
+凯达前刹车片		D787	1	副	36.96	凯达	前刹车片	制动系	a:1:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+海业 机油滤清器 HO-9857		HO-9857	2	只	36.00	海业	机油滤清器	滤清器	
+嘉赞/QQQ 无骨雨刮 26寸 A719-26		A719-26	3	支	36.00	嘉赞/QQQ	前风挡雨刮片	雨刷	
+海业 机油滤清器 HO-9460		HO-9460	2	只	36.00	海业	机油滤清器	滤清器	
+豹王	机油滤清器		TO-6985	2	只	35.88	豹王/TORA	机油滤清器	滤清器	
+山多力 普通通用有骨雨刷片 430 26寸		SDL-430-26	2	支	33.60	山多力	前风挡雨刮片	雨刷	
+山多力 普通通用无骨雨刮片 E2 16寸		SDL-E2-16	2	支	33.40	山多力	前风挡雨刮片	雨刷	
+吉臣 异味祛除剂(水蜜桃) G-1122B 250ml		G-1122B	1	瓶	33.00	吉臣/GETSUN	空气净化剂	养护用品	
+豹王	空调滤清器		TAC-3034	1	只	32.76	豹王/TORA	空调滤清器	滤清器	
+BRKS	机油滤清器		BJ-9013	5	只	32.75	布瑞克斯/BRKS	机油滤清器	滤清器	
+BRKS	机油滤清器		BJ-9008	5	只	32.75	布瑞克斯/BRKS	机油滤清器	滤清器	
+海业 空调滤清器 HAC-4824		HAC-4824	1	只	32.40	海业	空调滤清器	滤清器	
+海业 机油滤清器 HO-7845		HO-7845	2	只	30.34	海业	机油滤清器	滤清器	
+嘉赞/QQQ 胶条 22寸 JT-22		JT-22	4	支	28.00	嘉赞/QQQ	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"22寸";}i:1;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+嘉赞/QQQ 胶条 24寸 JT-24		JT-24	4	支	28.00	嘉赞/QQQ	前风挡雨刮片	雨刷	
+吉臣 轮毂清洗剂 G-6005 500ml		G-6005	1	瓶	27.10	吉臣/GETSUN	清洗剂	养护用品	
+飞利浦/Philips 普通车灯 W5W 12V 5W		12961CP	2	盒	26.46	飞利浦/Philips	汽车灯泡	照明	
+佛山照明/FSL 普通灯泡 H3 24V 100W PK22S		H3 24V 100W PK22S	10	盒	25.00	佛山照明/FSL	汽车灯泡	照明	
+回天 钣金胶 硬 310ml/支 24支/箱		HT-BJJ-310ml	1	支	24.60	回天	密封剂	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:9:"净含量";s:10:"attr_value";s:5:"310ml";}}
+山多力 高档通用有骨(配套)雨刮片 618 26寸		SDL-618-26	1	支	24.40	山多力	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"26寸";}}
+嘉赞/QQQ 无骨雨刮 19寸 A719-19		A719-19	2	支	24.00	嘉赞/QQQ	前风挡雨刮片	雨刷	
+山多力 高档通用有骨(配套)雨刮片 618 24寸		SDL-618-24	1	支	23.50	山多力	前风挡雨刮片	雨刷	
+吉臣 砂蜡 G-1202C 230g		G-1202C	1	盒	22.50	吉臣/GETSUN	汽车蜡	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"容量";s:10:"attr_value";s:4:"230g";}}
+山多力 高档通用有骨(配套)雨刷片 618 18寸		SDL-618-18	1	支	21.60	山多力	前风挡雨刮片	雨刷	
+山多力 高档通用有骨(配套)雨刮片 618 19寸		SDL-618-19	1	支	21.60	山多力	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}i:1;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"19寸";}}
+豹王	机油滤清器		TO-6818	1	只	20.28	豹王/TORA	机油滤清器	滤清器	
+山多力 高档通用有骨(配套)雨刷片 618 16寸		SDL-618-16	1	支	19.80	山多力	前风挡雨刮片	雨刷	
+马勒	机油滤清器		OX 794D ECO	1	只	18.82	马勒/MAHLE	机油滤清器	滤清器	
+山多力 普通通用无骨雨刮片 E2 20寸		SDL-E2-20	1	支	18.80	山多力	前风挡雨刮片	雨刷	
+博世机油滤清器		0986AF0024	1	只	17.30	博世/Bosch	机油滤清器	滤清器	
+马勒机油滤清器 铁壳		OC 894	1	只	15.00	马勒/MAHLE	机油滤清器	滤清器	
+佛山照明 S-25 1141 汽车摩托车转弯灯(黄盒) 12V 21W BA15s		S-25-1141	3	盒	14.85	佛山照明/FSL	前转向灯灯泡	照明	
+嘉赞/QQQ 胶条 20寸 JT-20		JT-20	2	支	14.00	嘉赞/QQQ	前风挡雨刮片	雨刷	a:1:{i:0;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"20寸";}}
+嘉赞/QQQ 胶条 19寸 JT-19		JT-19	2	支	14.00	嘉赞/QQQ	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"19寸";}i:1;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+嘉赞/QQQ 胶条 18寸 JT-18		JT-18	2	支	14.00	嘉赞/QQQ	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"18寸";}i:1;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+嘉赞/QQQ 胶条 17寸 JT-17		JT-17	2	支	14.00	嘉赞/QQQ	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"17寸";}i:1;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+嘉赞/QQQ 胶条 14寸 JT-14		JT-14	2	支	14.00	嘉赞/QQQ	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"14寸";}i:1;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+嘉赞/QQQ 胶条 21寸 JT-21		JT-21	2	支	14.00	嘉赞/QQQ	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"21寸";}i:1;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+嘉赞/QQQ 胶条 26寸 JT-26		JT-26	2	支	14.00	嘉赞/QQQ	前风挡雨刮片	雨刷	a:2:{i:0;a:2:{s:9:"attr_name";s:6:"尺寸";s:10:"attr_value";s:5:"26寸";}i:1;a:2:{s:9:"attr_name";s:12:"安装位置";s:10:"attr_value";s:3:"前";}}
+山多力 普通通用有骨雨刮片 430 12寸		SDL-430-12	1	支	10.60	山多力	前风挡雨刮片	雨刷	
+佛山照明 G-18 2405 汽车摩托车转向灯(黄盒) 24V 10W BA15s 		G-18-2405	2	盒	9.90	佛山照明/FSL	前转向灯灯泡	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:3:"10W";}i:1;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:5:"BA15s";}i:2;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"24V";}}
+佛山照明 G-18 89 汽车摩托车转向灯(黄盒) 12V 10W BA15s		G-18-89	2	盒	9.90	佛山照明/FSL	前转向灯灯泡	照明	
+MOKEM 浓缩性雨刮精 32ml/瓶 12瓶/箱		K606	1	瓶	6.67	MOKEM	清洗剂	养护用品	
+佛山照明 FSL H1 汽车灯泡(黄盒)		H1/24V-100W	2	盒	5.00	佛山照明/FSL	汽车灯泡	照明	a:3:{i:0;a:2:{s:9:"attr_name";s:6:"功率";s:10:"attr_value";s:4:"100W";}i:1;a:2:{s:9:"attr_name";s:6:"灯座";s:10:"attr_value";s:6:"p14.5s";}i:2;a:2:{s:9:"attr_name";s:6:"电压";s:10:"attr_value";s:3:"24V";}}
+回天 黑胶 55g/支 100支/箱		HT-HJ-55g	1	支	3.50	回天	密封剂	养护用品	a:1:{i:0;a:2:{s:9:"attr_name";s:9:"净含量";s:10:"attr_value";s:3:"55g";}}
+法雷奥 ValeoFirst（优选）传统雨刮16寸			13	支	0.00	法雷奥/Valeo	前风挡雨刮片	雨刷	
